@@ -1,0 +1,2 @@
+# variabler
+Introduksjon til variabler
